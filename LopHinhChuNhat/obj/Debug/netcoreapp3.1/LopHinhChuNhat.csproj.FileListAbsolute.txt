@@ -1,0 +1,13 @@
+E:\BT C#\LopHinhChuNhat\LopHinhChuNhat\bin\Debug\netcoreapp3.1\LopHinhChuNhat.exe
+E:\BT C#\LopHinhChuNhat\LopHinhChuNhat\bin\Debug\netcoreapp3.1\LopHinhChuNhat.deps.json
+E:\BT C#\LopHinhChuNhat\LopHinhChuNhat\bin\Debug\netcoreapp3.1\LopHinhChuNhat.runtimeconfig.json
+E:\BT C#\LopHinhChuNhat\LopHinhChuNhat\bin\Debug\netcoreapp3.1\LopHinhChuNhat.runtimeconfig.dev.json
+E:\BT C#\LopHinhChuNhat\LopHinhChuNhat\bin\Debug\netcoreapp3.1\LopHinhChuNhat.dll
+E:\BT C#\LopHinhChuNhat\LopHinhChuNhat\bin\Debug\netcoreapp3.1\LopHinhChuNhat.pdb
+E:\BT C#\LopHinhChuNhat\LopHinhChuNhat\obj\Debug\netcoreapp3.1\LopHinhChuNhat.csprojAssemblyReference.cache
+E:\BT C#\LopHinhChuNhat\LopHinhChuNhat\obj\Debug\netcoreapp3.1\LopHinhChuNhat.AssemblyInfoInputs.cache
+E:\BT C#\LopHinhChuNhat\LopHinhChuNhat\obj\Debug\netcoreapp3.1\LopHinhChuNhat.AssemblyInfo.cs
+E:\BT C#\LopHinhChuNhat\LopHinhChuNhat\obj\Debug\netcoreapp3.1\LopHinhChuNhat.csproj.CoreCompileInputs.cache
+E:\BT C#\LopHinhChuNhat\LopHinhChuNhat\obj\Debug\netcoreapp3.1\LopHinhChuNhat.dll
+E:\BT C#\LopHinhChuNhat\LopHinhChuNhat\obj\Debug\netcoreapp3.1\LopHinhChuNhat.pdb
+E:\BT C#\LopHinhChuNhat\LopHinhChuNhat\obj\Debug\netcoreapp3.1\LopHinhChuNhat.genruntimeconfig.cache
